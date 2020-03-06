@@ -1,0 +1,5 @@
+﻿  FBullCowGame.cpp
+  main.cpp
+  Generating Code...
+c:\users\visva\documents\unrealcourse\section_02\bullcowgame\fbullcowgame.cpp(142): warning C4715: 'FBullCowGame::IsLowercase': not all control paths return a value
+  BullCowGame.vcxproj -> C:\Users\visva\Documents\UnrealCourse\Section_02\Debug\BullCowGame.exe
